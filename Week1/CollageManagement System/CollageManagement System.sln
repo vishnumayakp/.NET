@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollageManagement System", "CollageManagement System\CollageManagement System.csproj", "{FC55F1E0-8D8D-4ACB-9B24-7D9CC54C7078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC55F1E0-8D8D-4ACB-9B24-7D9CC54C7078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC55F1E0-8D8D-4ACB-9B24-7D9CC54C7078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC55F1E0-8D8D-4ACB-9B24-7D9CC54C7078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC55F1E0-8D8D-4ACB-9B24-7D9CC54C7078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6300086F-D75D-47F8-88F6-0FCB17FFFC72}
+	EndGlobalSection
+EndGlobal
